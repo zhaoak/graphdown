@@ -1,6 +1,6 @@
 # Graphdown
 
-Graphdown is a Markdown-like, simple text schema that can be used to quickly generate flowcharts and other diagrams from a human-readable text file.
+Graphdown is a Markdown-like, simple markup language that can be used to quickly generate flowcharts and other diagrams from a human-readable text file.
 
 It will be once I finish making it, anyway.
 
